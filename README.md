@@ -8,7 +8,7 @@ https://arxiv.org/abs/2012.04846: "SnapMix: Semantically Proportional Mixing for
 
 There is also a code repo on github:  https://github.com/Shaoli-Huang/SnapMix . 
 
-The code by S.H. is written in PyTorch, I don't know PyTorch but found it interessting to try to implement the very same algorithm using tf.keras - knowing about Keras from the book by F. Chollet.
+The code by S.H. is written in PyTorch, I don't know PyTorch but found it interessting to try to implement the very same algorithm directly form the description in the research papers using tf.keras - knowing about Keras from the book by F. Chollet.
 
 My implementation is not doing too well though: LB/PB about 44% while the notebook by S.P. reaches > 80% accuracy , i.e. clearly I must have some mistakes in the code.
 
