@@ -1,6 +1,6 @@
 # Kaggle Cassava Competition 2020/2021
  
-Transfer-learning seemed to be the obvious solution to this, my first, Kaggle competition. 
+Transfer-learning seemed to be the obvious solution to this, my first, Kaggle competition, but VGG16 did not do well in my experiments. 
 
 Pretty soon into the competition I stumbled over a notebook by Sachin Prabhu, using the SnapMix algorithm described in 
 
